@@ -1,0 +1,2 @@
+tabs: ["counter.js", "main.js"]
+terminals: ["yarn install && yarn dev"]
